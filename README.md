@@ -1,17 +1,18 @@
-# flutter_application_1
+# ✈️ Registro de Viagens
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter para registro e gerenciamento de viagens, permitindo ao usuário cadastrar, visualizar e organizar informações de seus regsitro e valores de viagem de forma simples e eficiente.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Sobre o Projeto
 
-A few resources to get you started if this is your first Flutter project:
+O **Registro de Viagens** é uma aplicação mobile que tem como objetivo auxiliar usuários a documentarem suas viagens, armazenando dados como destino, data, descrição e valores relacionados.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Este projeto foi desenvolvido para  Projeto Bimestral - PROGRAMAÇÃO PARA DISPOSITIVOS MOVEIS II - com foco em aprendizado prático de desenvolvimento mobile utilizando linguagem: Dart e Framework: Flutter e boas práticas de programação.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+👨‍💻 Integrantes: 
+DÍMERSON VICENTE FERREIRA
+GABRIEL ANDRADE ALEIXO
+URIEL MONTE PAZ DE ARAÚJO
